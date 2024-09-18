@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(pink,yellow,green);
+}
+.hovereffect{
+    transition:0.3s;
+}
+.hovereffect:hover{
+    border-bottom: 1px solid green;
+    transform:scale(1.23);
+}
+div a button{
+    transition:0.3s;
+    box-shadow: 5px 5px 15px black;
+}
+div a button:hover{
+    transform:scale(1.23);
+}
+.twitter1{
+    transition: 0.3s;
+    
+}
+.twitter1:hover{
+    transform:scale(1.23);
+}
+.facebook1{
+    transition: 0.3s;
+}
+.facebook1:hover{
+    transform:scale(1.23);
+}
+.instagram1{
+    transition: 0.3s;
+}
+.instagram1:hover{
+    transform:scale(1.23);
+}
+.Linkedin1{
+    transition: 0.3s;
+}
+.linkedin1:hover{
+    transform:scale(1.23);
+}
+.gmail1{
+    transition: 0.3s;
+}
+.gmail1:hover{
+    transform:scale(1.23);
+}
